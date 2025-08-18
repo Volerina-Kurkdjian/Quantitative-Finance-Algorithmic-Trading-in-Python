@@ -29,4 +29,8 @@ Interest rate of bonds are higher than those of banks.
 
 
 
+ Yield to Maturity
+
+ Assume that the bond is held until T maturity
+ All C coupon and P principal payments are made on schedule
  
