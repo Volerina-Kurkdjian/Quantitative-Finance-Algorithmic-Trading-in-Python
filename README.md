@@ -22,4 +22,11 @@ Can make a profit with long positions on the BULL market(securities are on the r
 
 <img width="870" height="307" alt="image" src="https://github.com/user-attachments/assets/531ca433-2b29-4a02-8af7-5fa4e6505fa7" />
 
+<br></br>
+
+Bond= a debt investment in which an investor loans money to an entity. Fixed income securities.
+Interest rate of bonds are higher than those of banks.
+
+
+
  
