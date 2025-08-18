@@ -12,4 +12,14 @@ Investors maintain shot positions expecting that the stock will decrease in valu
 
 Investors can make profit by maintaining both a short and a long position. 
 
-Short selling= you sell something you actually don't own. 
+Short selling= you sell something you actually don't own. An investor is borrowing shares and immediately sells them hoping he can buy them up  later at a lower price, return them to the lender and pocket the difference. 
+Short selling is much riskier than opening long positions. When you open long position maximum possible loss is 100%, losing the entire initial investment. With short selling there is no limit to how much you can lose, because there is no limit to the actual stock to increase in value.
+Investors keep short positions in the expextation that the stock will decrease in value in the future.
+
+Can make a profit with short positions on the BEAR market(securities fall for a sustained period of time).
+<br></br>
+Can make a profit with long positions on the BULL market(securities are on the rise for a sustained period of time).
+
+<img width="870" height="307" alt="image" src="https://github.com/user-attachments/assets/531ca433-2b29-4a02-8af7-5fa4e6505fa7" />
+
+ 
