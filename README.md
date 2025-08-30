@@ -33,4 +33,18 @@ Interest rate of bonds are higher than those of banks.
 
  Assume that the bond is held until T maturity
  All C coupon and P principal payments are made on schedule
+
+
+ <h1><b>MODERN PORTOFOLIO: Markowitz-Model</b></h1>
+
+<b>1. Mean (Expected Return)</b>
+<br>In Markowitz’s model, mean is simply the expected return of an asset or portfolio.</br>
+
+<img width="530" height="432" alt="image" src="https://github.com/user-attachments/assets/5a689a5e-8ff6-41aa-b82d-6378a87d7c17" />
+
+The mean return is what you expect to earn on average.
+
+
+
+
  
