@@ -45,6 +45,36 @@ Interest rate of bonds are higher than those of banks.
 The mean return is what you expect to earn on average.
 
 
+<br><b>2. Covariance:</b> 
+
+<br>Defines how two variables move together</br>
+
+Correlation is preferred instead of covariance because the covariance is: 
+<br>-dimensional measure</br>
+-not normalized => hard to compare datasets with large differences in spread</br>
+
+
+<br><b>3. Correlation:</b> 
+
+<img width="736" height="276" alt="image" src="https://github.com/user-attachments/assets/e5ee481c-4a53-436c-a970-7aa572ca3c3a" />
+
+
+Is a dimensionless measure of how two random variables vary together.
+The correlation value is always within the range[-1,1].
+Correlation tells you how assets interact and is the reason diversification works.
+
+
+<img width="656" height="407" alt="image" src="https://github.com/user-attachments/assets/f0934a7e-4cc1-4493-934d-3171803e88c5" />
+
+
+
+
+
+
+
+
+
+
 
 
  
